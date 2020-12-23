@@ -7,4 +7,4 @@ if (time<12){time='am'}else{time='pm'}
 var x
 x = confirm ("you want to turn on notification for our website?")
 console.log(x)
-if (x == true){alert('thank you')}else{alert('no thanks,git out')}
+if (x == true) {alert('thank you')} else {alert('no thanks,git out')}
